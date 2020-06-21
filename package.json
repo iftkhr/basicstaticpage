@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "First Personal Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iftkhr/project1.git"
+  },
+  "keywords": [
+    "project1"
+  ],
+  "author": "Iftakhar Kaunain Ashhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iftkhr/project1/issues"
+  },
+  "homepage": "https://github.com/iftkhr/project1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
