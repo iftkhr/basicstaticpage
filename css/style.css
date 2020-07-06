@@ -1,0 +1,68 @@
+body{
+    margin: 0 auto;
+    width: 80%;
+    background: lightgray;
+}
+header{
+    height: 30vh;
+    background: url('../img/pattern.jpeg');
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+    padding: 2% 0 0 0;
+    color: khaki;
+}
+nav{
+    height: 10vh;
+    background: khaki;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    padding: 3% 0 0 0;
+}
+nav a, nav a:visited{
+    text-decoration: none;
+    color: slategrey;
+    margin: 0 10%;
+}
+nav a:hover{
+    color: black;
+}
+h2{
+    margin: 0;
+    height: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+    color: white;
+    padding: 2% 0 0 1%;
+}
+#brushes h2{
+    background: mediumspringgreen;
+}
+#frames h2{
+    background: lightcoral;
+}
+#paint h2{
+    background: skyblue;
+}
+img{
+    margin: 1% 0;
+    float: left;
+}
+article{
+    display: inline-block;
+    width: 70%;
+    margin: 1.5%;
+    height: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
+.price{
+    font-weight: bold;
+    color: blue;
+}
+section{
+    background: whitesmoke;
+}
